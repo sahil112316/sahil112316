@@ -1,4 +1,4 @@
-# Hi there, I'm Sahil Kumar 👋
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;I'm+Sahil+Kumar;Python+Backend+%26+AI%2FML+Developer" alt="Typing SVG" /></p>
 
 ### 👨‍💻 Python Backend & AI/ML Developer
 
